@@ -1,20 +1,20 @@
-Collective Work: Best Practices for Collaborative Investigative Reporting
+Collective Work: Meilleures pratiques pour l'enquête de rapports par collaboration
 
-1. Consider the following when planning investigative collaborations:
-- What is the scope of the collaboration?
-- What are the anticipated contributions of each organization?
-- What is the plan for working together throughout the process?
-- How do collaborators prefer to communicate?
-- How will the project be managed?
-- How will information and findings be shared?
-- How will content be shared?
-- What are the anticipated obstacles? And how might they be resolved?
-- How will the editorial, fact-checking, legal review and publication processes work?
-- How will the consistency of information and key facts be insured?
-- How will the collaboration be branded and publicized?
-- Who will follow up on breaking news related to the story, post-publication?
-- How will the project be submitted and credited for awards?
-- How will revenues (if you’re lucky enough to have any) be shared?
+1. Lors de l'enquête par collaboration, considérez les points suivant:
+- Quel est la portée de la collaboration ?
+- Quelles sont les contributions anticipées par chaque organisation ?
+- Lors du processus, quel est le plan pour travailler ensemble ?
+- Comment les collaborateurs préfèrent-ils communiquer ?
+- Comment sera gérer le projet ?
+- Comment sera partagé l'information et les trouvailles ?
+- Comment le contenu sera-t-il partagé ?
+- Quels sont les obstacles anticipés ? comment seront-ils résolu ?
+- Comment fonctionnera l'éditorial, la vérification de faits, la révision juridique ainsi que le processus de publication ?
+- Comment sera assuré la cohérence de l'information et les faits principaux ?
+- Comment sera publiée la collaboration ? *TODO: (How will the collaboration be branded and publicized?)
+- Qui sera chargé du suivi sur les nouvelles reliées à l'histoire suite à sa publication ?
+- Comment le projet sera-il soumis et crédité pour des prix ?
+- Comment seront partagé les revenus (si tu es suffisament chanceux pour en avoir) ?
 
 2. Put agreements in writing, including:
 - The goal(s) of the partnership.
