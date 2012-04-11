@@ -1,5 +1,4 @@
-Collective Work: Best Practices for Collaborative Investigative Reporting
-Trabajo Colectivo: Prácticas Recomendadas para Reportajes de Investigación Colaborativos
+Trabajo Colectivo: Prácticas Recomendadas para el Periodismo de Investigación Colaborativo
 
 1. Considerar lo siguiente al planear colaboraciones de investigación:
 - Cuál es el ámbito de la colaboración?
@@ -21,42 +20,34 @@ Trabajo Colectivo: Prácticas Recomendadas para Reportajes de Investigación Col
 - El objetivo o objectivos de la colaboración
 - El plan de publicación
 - Las tareas y plazos asignados
-- Los acuerdos sobre 
+- Los acuerdos sobre los recursos del proyecto
+- Los acuerdos alcanzados durante el proceso
 
 
+3. Assignar un director de proyecto, distinto del editor, quien se encargará
+de los aspectos organizativos de la colaboración. Este director creará una
+lista de correo para el grupo, planeará reuniones y agendas, seguirá las actividades de cada
+organización y supervisará las distintas tareas.
 
-2. Put agreements in writing, including:
-- The goal(s) of the partnership.
-- The reporting/publication plan.
-- Assigned tasks and deadlines.• Agreements about resources.
-- Agreements reached throughout the process.
+4. Determinar un proceso para compartir información: fuentes, documentos, datos.
 
-3. Assign a project manager, distinct from an editor, who manages the
-organizational aspects of the collaboration. This manager sets up a group
-email, arranges meetings and agendas, tracks the activities of each
-organization and stays on top of tasks.
+5. Discutir cómo se trabajará con las fuentes:
+- Cómo se controlará quién ha hablado con quién?
+- Cómo se representará el proyecto y las organizaciones de noticias involucradas?
+- Quién es el contacto primario de cada fuente?
+- Cómo se coordinarán las entrevistas?
+- Cómo se gestionarán las fuentes "off-the-record"?
 
-4. Determine a process for sharing information: sources, documents, data.
+6. Comprender los medios en los que los compañeros están trabajando, y qué necesitan
+para producir su historia.
 
-5. Discuss how you will work with sources:
-- How will you keep track of who has talked to whom?
-- How will you represent the project and the news organizations involved?
-- Who is the primary contact for each source?
-- How will you coordinate interviews?
-- How will you handle off-the-record sources and information?
+7. Comprender la cultura de organización de los compañeros, la estructura de su
+organización y sus requerimientos/limitaciones de publicación.
 
-6. Understand the mediums that your partners are working in and what they
-require to produce their story.
+8. Concentrarse en construir el equipo y potenciar las habilidades de comunicación y
+liderazgo de la organización propia.
 
-7. Understand your partners’ organizational culture, structure and publishing
-requirements/limitations.
-
-8. Focus on teambuilding and fostering communication and leadership skills
-within your organization.
-
-Collective Work is a project of the Investigative Reporting Program at U.C. Berkeley’s
-
-Graduate School of Journalism and funded by the John S. and James L. Knight
-Foundation.
+Trabajo Colectivo es un proyecto de Periodismo de Investigación de la
+Escuela de Periodismo de U.C. Berkeley, financiado por la fundación John S. and James L. Knight.
 
 Copyright 2012, The University of California at Berkeley.
