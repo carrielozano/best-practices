@@ -1,20 +1,29 @@
 Collective Work: Best Practices for Collaborative Investigative Reporting
+Trabajo Colectivo: Prácticas Recomendadas para Reportajes de Investigación Colaborativos
 
-1. Consider the following when planning investigative collaborations:
-- What is the scope of the collaboration?
-- What are the anticipated contributions of each organization?
-- What is the plan for working together throughout the process?
-- How do collaborators prefer to communicate?
-- How will the project be managed?
-- How will information and findings be shared?
-- How will content be shared?
-- What are the anticipated obstacles? And how might they be resolved?
-- How will the editorial, fact-checking, legal review and publication processes work?
-- How will the consistency of information and key facts be insured?
-- How will the collaboration be branded and publicized?
-- Who will follow up on breaking news related to the story, post-publication?
-- How will the project be submitted and credited for awards?
-- How will revenues (if you’re lucky enough to have any) be shared?
+1. Considerar lo siguiente al planear colaboraciones de investigación:
+- Cuál es el ámbito de la colaboración?
+- Qué contribuciones se esperan de cada organización?
+- Cuál es el plan para trabajar juntos durante el proceso?
+- Cómo prefieren los colaboradores comunicarse?
+- Cómo se va a gestionar el proyecto?
+- Cómo se van a compartir información y descubrimientos?
+- Cómo se va a compartir el contenido?
+- Qué obstáculos se anticipan, y cómo pueden resolverse?
+- Cómo funcionarán los procesos de editorialización, verificación de hechos, revisión legal y publicación?
+- Cómo se asegurará la consistencia de la información y de los hechos clave?
+- Cómo se publicitará la colaboración?
+- Quién investigará noticias relacionadas a la historia, después de la publicación?
+- Cómo se propondrá y atribuirá el proyecto para posibles premios?
+- Cómo se distribuirán las ganancias, en el caso que haya?
+
+2. Dejar acuerdos por escrito, incluyendo:
+- El objetivo o objectivos de la colaboración
+- El plan de publicación
+- Las tareas y plazos asignados
+- Los acuerdos sobre 
+
+
 
 2. Put agreements in writing, including:
 - The goal(s) of the partnership.
