@@ -1,6 +1,7 @@
 ###Collective Work: Best Practices for Collaborative Investigative Reporting (EN)
 
 1. Consider the following when planning investigative collaborations:
+
 • What is the scope of the collaboration?
 • What are the anticipated contributions of each organization?
 • What is the plan for working together throughout the process?
@@ -17,6 +18,7 @@
 • How will revenues (if you’re lucky enough to have any) be shared?
 
 2. Put agreements in writing, including:
+
 • The goal(s) of the partnership.
 • The reporting/publication plan.
 • Assigned tasks and deadlines.• Agreements about resources.
@@ -30,6 +32,7 @@ organization and stays on top of tasks.
 4. Determine a process for sharing information: sources, documents, data.
 
 5. Discuss how you will work with sources:
+
 • How will you keep track of who has talked to whom?
 • How will you represent the project and the news organizations involved?
 • Who is the primary contact for each source?
