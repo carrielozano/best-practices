@@ -1,6 +1,6 @@
 ###Collective Work: Best Practices for Collaborative Investigative Reporting (EN)
 
-1. Consider the following when planning investigative collaborations:
+####1. Consider the following when planning investigative collaborations:
 
 • What is the scope of the collaboration?
 • What are the anticipated contributions of each organization?
@@ -17,21 +17,21 @@
 • How will the project be submitted and credited for awards?
 • How will revenues (if you’re lucky enough to have any) be shared?
 
-2. Put agreements in writing, including:
+####2. Put agreements in writing, including:
 
 • The goal(s) of the partnership.
 • The reporting/publication plan.
 • Assigned tasks and deadlines.• Agreements about resources.
 • Agreements reached throughout the process.
 
-3. Assign a project manager, distinct from an editor, who manages the
+####3. Assign a project manager, distinct from an editor, who manages the
 organizational aspects of the collaboration. This manager sets up a group
 email, arranges meetings and agendas, tracks the activities of each
 organization and stays on top of tasks.
 
-4. Determine a process for sharing information: sources, documents, data.
+####4. Determine a process for sharing information: sources, documents, data.
 
-5. Discuss how you will work with sources:
+####5. Discuss how you will work with sources:
 
 • How will you keep track of who has talked to whom?
 • How will you represent the project and the news organizations involved?
@@ -39,13 +39,13 @@ organization and stays on top of tasks.
 • How will you coordinate interviews?
 • How will you handle off•the•record sources and information?
 
-6. Understand the mediums that your partners are working in and what they
+####6. Understand the mediums that your partners are working in and what they
 require to produce their story.
 
-7. Understand your partners’ organizational culture, structure and publishing
+####7. Understand your partners’ organizational culture, structure and publishing
 requirements/limitations.
 
-8. Focus on teambuilding and fostering communication and leadership skills
+####8. Focus on teambuilding and fostering communication and leadership skills
 within your organization.
 
 Collective Work is a project of the Investigative Reporting Program at U.C. Berkeley’s
