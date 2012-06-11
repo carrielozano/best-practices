@@ -25,10 +25,8 @@
 - Agreements about resources.
 - Agreements reached throughout the process.
 
-#### 3. Assign a project manager, distinct from an editor, who manages the
-organizational aspects of the collaboration. This manager sets up a group
-email, arranges meetings and agendas, tracks the activities of each
-organization and stays on top of tasks.
+#### 3. Assign a project manager, distinct from an editor, who manages the organizational aspects of the collaboration.
+This manager sets up a group email, arranges meetings and agendas, tracks the activities of each organization and stays on top of tasks.
 
 #### 4. Determine a process for sharing information: sources, documents, data.
 
@@ -40,14 +38,11 @@ organization and stays on top of tasks.
 - How will you coordinate interviews?
 - How will you handle off-the-record sources and information?
 
-#### 6. Understand the mediums that your partners are working in and what they
-require to produce their story.
+#### 6. Understand the mediums that your partners are working in and what they require to produce their story.
 
-#### 7. Understand your partners’ organizational culture, structure and publishing
-requirements/limitations.
+#### 7. Understand your partners’ organizational culture, structure and publishing requirements/limitations.
 
-#### 8. Focus on teambuilding and fostering communication and leadership skills
-within your organization.
+#### 8. Focus on teambuilding and fostering communication and leadership skills within your organization.
 
 Collective Work is a project of the Investigative Reporting Program at U.C. Berkeley’s
 
